@@ -239,6 +239,9 @@ footer p span {
     a.our__story {
         margin:0 auto;
     }
+    section.our__story{
+        padding: 10px;
+    }
 }
 @media screen and (max-width:640px){
     .pricing {
@@ -298,6 +301,18 @@ footer p span {
     .img__services {
         width: 100%;  
         height: 100%;
+    }
+    .pricing__box a.a1 {
+        padding: 15px 40px;
+    }
+    .pricing__box a.a2 {
+        padding: 15px 30px;
+    }
+    .pricing__box a.a3 {
+        padding: 15px 30px;
+    }
+    footer p{
+        padding-left: 10px;
     }
     
 }

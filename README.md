@@ -2,4 +2,4 @@
 ---
 Это код одного раздела сайта, выполненный на HTML и CSS по шаблону из Figma.
 
-[Результат](http://a0779987.xsph.ru/)
+[Результат](https://kolibri0509.github.io/site_portfolio1/)
